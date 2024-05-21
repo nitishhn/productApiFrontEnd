@@ -1,0 +1,51 @@
+/* GetAllProductComponent.css */
+
+/* Form Container */
+.form-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Form Title */
+.form-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+/* Form Field */
+.form-field {
+  margin-bottom: 15px;
+}
+
+/* Label */
+.label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+/* Input */
+.input {
+  width: 85%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+/* Checkbox Container */
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  margin-left: 8px;
+}
+
+/* Checkbox Label */
+.checkbox-label {
+  margin-left: 10px;
+}
